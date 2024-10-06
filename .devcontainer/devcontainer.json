@@ -8,7 +8,7 @@
         "vscode"
     ],
     "shutdownAction": "stopCompose",
-    "postCreateCommand": "~/.windows.sh",
+    // "postCreateCommand": "~/.windows.sh",
     "workspaceFolder": "/workspace",
     // "overrideCommand": "",
     "customizations": {
